@@ -1,14 +1,13 @@
-# MultiLearn Adventure
+# Sky Jump
 # Description:
 
-The project is an interactive educational project designed to introduce children to the vibrant world of shapes, colors, letters, and numbers. This immersive experience combines the power of WebGL technology with engaging content to create a playful environment that makes learning a joyous adventure for young minds.
+Navigate your way through a maze of floating obstacles with simple one-touch controls. Challenge yourself to beat your best score and unlock cool new bird characters along the way.
+Enjoy the game's colorful and dynamic visuals as you climb higher and higher.
+
 
 # Key Features:
 
-Shapes : Delight in a variety of shapes, from basic to more intricate forms, fostering a solid foundation in spatial awareness.
+Simple Controls: Dive into the action with easy one-touch controls that make the game fun.
+Diverse Obstacles: Navigate through a variety of obstacles suspended in the sky.
+Unlockable Characters: Earn points by successfully navigating obstacles and use them to unlock a cast  bird characters. 
 
-Colorful Exploration: Dive into a spectrum of colors, encouraging creativity and recognition through visually stimulating activities.
-
-Letters : Embark on a letter safari, where each letter becomes a character in an exciting story, making the alphabet come to life.
-
-Numbers: Join a numerical quest filled with interactive challenges that make learning numbers a dynamic and entertaining experience.
